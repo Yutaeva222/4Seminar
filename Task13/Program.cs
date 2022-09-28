@@ -1,4 +1,5 @@
-﻿int GetNumber()
+﻿Console.Clear();
+int GetNumber()
 {
     int num = 0;
     while (LengthNum(num) <= 2)
